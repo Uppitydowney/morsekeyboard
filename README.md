@@ -1,4 +1,4 @@
-This project utilizes an Arduino Pro Micro to create a custom Morse code keyboard interface. The system uses a single button to generate keyboard inputs for dots ([) and dashes (]), allowing for Morse code input via straight key or lambic paddle. 
+This project utilizes an Arduino Pro Micro to create a custom Morse code keyboard interface. The system uses a straightkey  button to generate keyboard inputs for dots ([) or lambic [addle for dots ([) and dashes (]) with, allowing for Morse code input via straight key or lambic paddle. 
 The Arduino incorporates debounce logic to ensure accurate keypresses. This setup is ideal for hobbyists interested in Morse code communication or those looking to integrate custom keyboard inputs into their projects.
 keyboard outputs can be changed in code.
 
