@@ -8,6 +8,8 @@ Parts
 
 4x m2 x 8 stainless steel hex socket cap screw
 
+1x usb c cable to interface with pc,android or ios
+
 https://github.com/Uppitydowney/morsekeyboard
 
 https://www.printables.com/model/907779-morse-mania-app-arduino-pro-micro-keyboard-morse-c
