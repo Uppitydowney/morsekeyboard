@@ -7,7 +7,7 @@ Parts
 
 1x arduino pro Micro
 
-1x 54-00081[https://www.digikey.com/en/products/detail/tensility-international-corp/54-00081/7650216](url)
+1x [54-00081](https://www.digikey.com/en/products/detail/tensility-international-corp/54-00081/7650216)
 3.50mm (0.141", 1/8", Mini Plug) - Headphone Phone Jack Stereo (3 Conductor, TRS) Connector Solder Eyelet(s) 
 
 4x m2 x 8 stainless steel hex socket cap screw
