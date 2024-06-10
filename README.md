@@ -20,3 +20,4 @@ https://github.com/Uppitydowney/morsekeyboard
 https://www.printables.com/model/907779-morse-mania-app-arduino-pro-micro-keyboard-morse-c
 
 *54-00081 tip pin2 ring pin3,
+usbc to usbc cable needed to connect to a phone while the 3.5mm connects to a key or paddle.
